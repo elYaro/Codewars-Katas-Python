@@ -6,6 +6,7 @@ my Codewars Katas done in Python. I had so much fun doing them. It was a great t
 
 I am currently ranked `4 kyu` with 150+ katas solved in Python.
 I was studing Python at CodeCool Shool 3-4 month and those Katas were done at this time from my initiative.
+After that I jumped into Java Script and Java...and I still exploring new fields of software developer:)
 
 ### [Ranking](http://www.codewars.com/about)
 ```
