@@ -22,9 +22,6 @@ There are two main directories in this repository, `katas` and `tests`.
 
 ```
 ├── CodeWars Katas
-   ├── beta
-   ├── incomplete
-   ├── kyu_3
    ├── 4 kyu
    ├── 5 kyu
    ├── 6 kyu
